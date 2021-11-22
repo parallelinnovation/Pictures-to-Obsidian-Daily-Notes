@@ -6,6 +6,8 @@ Searches your photos folder for new photos, copies them to your Obsidian Vault, 
 
 You can run this just with your computer's files, but I chose to have it access my home server's files so that when I take a picture on my phone it automatically uploads into my daily Obsidian notes. 
 
+Only new images will be added while the program is running. They will be inserted with a timestamp in front of it. 
+
 # Getting started
 
 - Open the python file in a text editor
